@@ -1,0 +1,29 @@
+/* src/App.css */
+/* .App {
+    text-align: center;
+  } */
+  
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-title {
+    font-size: 24px;
+  }
+  
+  .add-employee-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px ;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  

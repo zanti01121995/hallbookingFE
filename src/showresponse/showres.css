@@ -1,0 +1,25 @@
+.card{
+
+    border: 1px solid #ccc;
+   /* width: fit-content; */
+   height: fit-content;
+   border-radius: 8px;
+   margin-top: 10px;
+   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+   padding: 16px;
+   display: flex;
+   align-items: center;
+   position: relative;
+}
+
+.delete{
+   position: absolute;
+   top: 15px;
+   left: 90%;
+   
+ }
+ .edit{
+   position: absolute;
+   top: 45px;
+   left: 90%;
+ }

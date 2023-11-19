@@ -1,0 +1,11 @@
+.roominp{
+    display: block;
+    padding-bottom: 10px;
+    }
+    label{
+        margin-right : 10px;
+    }
+    .roombtn{
+        display: flex;
+        justify-content: space-between;
+    }
